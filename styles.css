@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+}
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(subway.gif);
+    background-position: center;
+}
+h1, h2 {
+    font-family: 'Bebas Neue', cursive, sans-serif;
+}
+#title {
+    margin-top: 250px;
+    text-align: center;
+    font-size: 72px;
+    text-shadow: 0 0 10px whitesmoke;
+    text-decoration: line-through;
+}
+#count-el {
+    margin-top: 0px;
+    text-align: center;
+    font-size: 72px;
+    text-shadow: 0 0 10px whitesmoke;
+    text-decoration: line-through;
+}
